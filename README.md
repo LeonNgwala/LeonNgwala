@@ -38,55 +38,10 @@ I am a **Software Developer** passionate about building practical, scalable, and
 
 ---
 
-## 📌 Featured Projects
-
-### 🔗 Chess Link Game
-
-A web application where two players can generate a link and play a chess match with customizable settings.
-
-**Tech Stack**
-
-* React
-* Node.js
-* WebSockets
-
----
-
-### 📋 Task Management System
-
-A productivity web application that allows users to manage tasks, track progress, and organize workflows.
-
-**Tech Stack**
-
-* React
-* Express
-* MongoDB
-
----
-
-### 🌐 Personal Portfolio
-
-A responsive portfolio website showcasing projects, skills, and development experience.
-
-**Tech Stack**
-
-* React
-* CSS
-* JavaScript
-
----
-
-## 📈 GitHub Stats
-
-![Lutho's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true\&theme=default)
-
----
-
 ## 🌍 Connect With Me
 
-* LinkedIn: https://linkedin.com/in/YOUR_PROFILE
-* Portfolio: https://YOUR_WEBSITE
-* Email: YOUR_EMAIL
+* Portfolio: https://luthongwala-portfolio.netlify.app
+* Email: luthongwala100@gmail.com
 
 ---
 
